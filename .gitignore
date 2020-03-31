@@ -1,0 +1,3 @@
+node_modules/
+caregivers*.json
+users.sqlite3
