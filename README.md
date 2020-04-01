@@ -1,6 +1,5 @@
 # Backend for Three Caregivers Project
-# With Daniel Amaya and @JerTay and others 
-#  on the #BootsOnTheGround team of Coronavirusarmy
+ With Daniel Amaya and @JerTay and others  on the #BootsOnTheGround team of Coronavirusarmy
 
 ## Documentation
 
